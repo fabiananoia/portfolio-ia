@@ -1,5 +1,4 @@
-# Fabiana Noia
-## Portfólio de inteligência artificial
+# Fabiana Noia — Portfólio de Inteligência Artificial
 
 Desenvolvo assistentes, GPTs, plugins e skills com instruções personalizadas para atividades profissionais e pequenos negócios.
 
@@ -18,48 +17,50 @@ Minha atuação inclui **engenharia de prompts, organização de bases de conhec
 - Construção de critérios de qualidade e verificação.
 - Revisão de respostas e ajustes iterativos, com supervisão humana.
 
+> Os nomes dos plugins nas tabelas são links para suas páginas no ChatGPT. Os 22 plugins consultados estão configurados como privados: o acesso depende da conta e das permissões. Os links não são demonstrações públicas.
+
 ## Atendimento e planejamento
 
 | Projeto | Finalidade |
 | --- | --- |
 | **LIA — Eletrônica TV Vídeo** | Apoiar a recepção na elaboração de respostas para WhatsApp, com contexto comercial e revisão humana. |
-| **Planejar Soluções com IA** | Definir o problema, a delegação e os testes de aceitação antes da programação. |
-| **Candidaturas IA** | Pesquisar e selecionar vagas e apoiar candidaturas autorizadas. |
+| **[Planejar Soluções com IA](https://chatgpt.com/plugins/plugins_6ae0192473488191bbf7eb1f298a53db)** | Definir o problema, a delegação e os testes de aceitação antes da programação. |
+| **[Candidaturas IA](https://chatgpt.com/plugins/plugins_6ae00729689081919c82af701ac0130c)** | Pesquisar e selecionar vagas e apoiar candidaturas autorizadas. |
 
 ## Farol — Conteúdo e comunicação
 
 | Projeto | Finalidade |
 | --- | --- |
-| **Farol Editorial** | Direção editorial, pesquisa e revisão de conteúdo. |
-| **Farol Escritora** | Escrita e revisão de textos da Farol. |
-| **Farol Carrossel** | Planejamento, redação e revisão técnica de carrosséis. |
-| **Farol Carrossel IA** | Carrosséis sobre IA aplicada a pequenos negócios. |
-| **Farol Radar Pequenos Negócios** | Pesquisa de notícias e dados sobre MEI, ME e EPP. |
-| **Farol Agenda** | Pesquisa e divulgação de eventos de terceiros. |
-| **Farol Curso** | Divulgação de cursos e palestras próprios. |
-| **Farol Reels Planejamento** | Planejamento e revisão de vídeos curtos. |
-| **Farol Reels Agente WhatsApp** | Roteiros e materiais de Reels sobre agentes para WhatsApp. |
+| **[Farol Editorial](https://chatgpt.com/plugins/plugins_6acbdeaa1b5881919c9dc7dfe6c0e424)** | Direção editorial, pesquisa e revisão de conteúdo. |
+| **[Farol Escritora](https://chatgpt.com/plugins/plugins_6acd0d076a4c8191abfc30aec2993251)** | Escrita e revisão de textos da Farol. |
+| **[Farol Carrossel](https://chatgpt.com/plugins/plugins_6accef0e18b48191b789a681aebe0ea5)** | Planejamento, redação e revisão técnica de carrosséis. |
+| **[Farol Carrossel IA](https://chatgpt.com/plugins/plugins_6ac6f3aaabe08191ad36b618671589d2)** | Carrosséis sobre IA aplicada a pequenos negócios. |
+| **[Farol Radar Pequenos Negócios](https://chatgpt.com/plugins/plugins_6acc3cf8ba6c819195e34c3059d4be0d)** | Pesquisa de notícias e dados sobre MEI, ME e EPP. |
+| **[Farol Agenda](https://chatgpt.com/plugins/plugins_6acd5bc9d44c81918d4c03309b45561a)** | Pesquisa e divulgação de eventos de terceiros. |
+| **[Farol Curso](https://chatgpt.com/plugins/plugins_6acd6198b77c819183525c3be882ff6e)** | Divulgação de cursos e palestras próprios. |
+| **[Farol Reels Planejamento](https://chatgpt.com/plugins/plugins_6ad5e5802ffc819192d45afc79e2716d)** | Planejamento e revisão de vídeos curtos. |
+| **[Farol Reels Agente WhatsApp](https://chatgpt.com/plugins/plugins_6ace1486c9f48191bea136b15e5990da)** | Roteiros e materiais de Reels sobre agentes para WhatsApp. |
 
 ## Farol — Presença digital e Google
 
 | Projeto | Finalidade |
 | --- | --- |
-| **Farol Google Publicações** | Planejamento de publicações do Perfil da Empresa da Farol. |
-| **Farol Google Clientes** | Conteúdos para perfis de clientes no Google. |
-| **Farol Prospector** | Prospecção e diagnóstico de presença digital com evidências públicas. |
-| **Farol Pesquisa Google** | Pesquisa de presença local, site e concorrentes. |
-| **Farol NAP** | Conferência de nome, endereço e telefone; orientação para pinos e rotas. |
-| **Farol SEO & GEO** | Diagnóstico de sites e redes, indexabilidade e presença em buscas. |
-| **Farol Perfis Google** | Preparação de cadastro de Perfis da Empresa. |
-| **Farol Avaliações Google** | Apoio à leitura e resposta de avaliações. |
-| **Farol Reputação Google** | Análise de reputação, avaliações e plano de ação. |
+| **[Farol Google Publicações](https://chatgpt.com/plugins/plugins_6acec274ba748191b74678ad9fc92624)** | Planejamento de publicações do Perfil da Empresa da Farol. |
+| **[Farol Google Clientes](https://chatgpt.com/plugins/plugins_6acec27f57748191bdaa94e87d2acb92)** | Conteúdos para perfis de clientes no Google. |
+| **[Farol Prospector](https://chatgpt.com/plugins/plugins_6acb96902b588191b0dd83eb7bac1145)** | Prospecção e diagnóstico de presença digital com evidências públicas. |
+| **[Farol Pesquisa Google](https://chatgpt.com/plugins/plugins_6acafcc59b388191941699b4eaf8d616)** | Pesquisa de presença local, site e concorrentes. |
+| **[Farol NAP](https://chatgpt.com/plugins/plugins_6acb048a00ac81918b5a777ae50bea0d)** | Conferência de nome, endereço e telefone; orientação para pinos e rotas. |
+| **[Farol SEO & GEO](https://chatgpt.com/plugins/plugins_6acb948190cc81919e034961eca63944)** | Diagnóstico de sites e redes, indexabilidade e presença em buscas. |
+| **[Farol Perfis Google](https://chatgpt.com/plugins/plugins_6acebca45fd8819197dbc63a41aa3ac9)** | Preparação de cadastro de Perfis da Empresa. |
+| **[Farol Avaliações Google](https://chatgpt.com/plugins/plugins_6acb0fd85d308191afa5bd995f09583f)** | Apoio à leitura e resposta de avaliações. |
+| **[Farol Reputação Google](https://chatgpt.com/plugins/plugins_6acb950327108191be7d4402a58beb37)** | Análise de reputação, avaliações e plano de ação. |
 
 ## Avaliação de assistentes e plugins
 
 | Projeto | Finalidade |
 | --- | --- |
-| **Avalia Plugin** | Revisão de aderência ao contexto, omissões e critérios de avaliação. |
-| **Auditor Plugin 4D** | Auditoria de instruções e fluxos com o referencial dos 4Ds. |
+| **[Avalia Plugin](https://chatgpt.com/plugins/plugins_6adced7117bc8191aac28e44f957962a)** | Revisão de aderência ao contexto, omissões e critérios de avaliação. |
+| **[Auditor Plugin 4D](https://chatgpt.com/plugins/plugins_6add26ba55f08191a7c5193fd3f83334)** | Auditoria de instruções e fluxos com o referencial dos 4Ds. |
 
 ## Outras skills pessoais
 
